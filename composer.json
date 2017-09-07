@@ -1,0 +1,21 @@
+{
+    "name": "seacjs/yii2-idea",
+    "description": "Module for receiving feedback from website visitors. Answers to frequently asked questions.",
+    "type": "yii2-extension",
+    "keywords": ["yii2"," extension"," idea"," callback"],
+    "license": "Apache-2.0",
+    "authors": [
+        {
+            "name": "Sholeninov Evgeniy",
+            "email": "sea-cjs@yandex.ru"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "seacjs\\idea\\": ""
+        }
+    }
+}
